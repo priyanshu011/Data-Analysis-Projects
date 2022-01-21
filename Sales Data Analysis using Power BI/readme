@@ -1,0 +1,37 @@
+Project Title :- Sales Data Analysis
+
+Problem Statement:-
+The Sales director of computer hardware company is facing issues with the declining sales. He wants to know about the overall sales scenario.
+
+Insights:-
+
+Highest Revenue Contributors:-
+Zone wise : - North zone (68.6% ) in revenue
+Area wise :- Deldi NCR (52.8%) in revenue
+Customer wise: - Electricalsara Stores (42%)
+customer type : - Brick and Mortar (75.6%)
+
+Lowest Revenue Contributors:-
+zone: South(4.6%)
+Area :-Bengaluru and even negative (-0.3%) profit contribution.
+customer: - Flawless stores in bengaluru region has negative profit contribution. While flawless has stores in ahmedabad but has good             perfomance.
+customer type :- Flawless stores is of brick and mortar type.
+
+
+Highest Profit contributions:-
+zone: - North zone(61.1%)
+Area : -Delhi NCR (48.5%)
+customer :- Electricalsara Stores(37.7%)
+customer type :- Brick and Mortar(65.5%)
+
+
+Profit Margin impact:-
+. delhi NCR has only (0.4%) of profit margin but it has high contribution in profit
+. Surat(4.9%) and Patna(4.1) has the highest profit margin but revenue is low
+
+
+We are facing the overall decline in sales and Revenue in Covid times majorly a steep decline after january 2020.
+
+
+
+
